@@ -1,0 +1,30 @@
+body {
+    width: 35%;
+    margin-left: 40%;
+    margin-right: auto;
+    background-color: midnightblue;
+    color: white;
+    margin-top: 8%;
+    font-size: 22px;
+}
+
+a {
+    text-decoration: underline;
+    color: white;
+}
+
+h1 {
+    font-size: 34px;
+}
+
+img {
+    position: absolute;
+    left: 0;
+    top: 0;
+    z-index: -1;
+    width: 100%;
+}
+
+.trit {
+    margin-top: 15%;
+}

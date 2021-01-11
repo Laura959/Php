@@ -1,0 +1,42 @@
+body {
+    background-color: midnightblue;
+
+}
+
+h1 {
+    color: rgb(255, 255, 255);
+    font-family: 'Bebas Neue', cursive;
+    font-weight: 700;
+    font-size: 40px;
+    margin-left: 14%;
+}
+
+ul {
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    color: white;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(255, 255, 255);;
+}
+
+img {
+    position: absolute;
+    top: 40%;
+    z-index: -1;
+    width: 60%;
+    margin-left: 20%;
+    
+}
+
+.main {
+    margin-top: 4%;
+    text-align: center;
+}
+
+.child {
+    display: inline-block;
+    text-align: left;
+}
